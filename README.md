@@ -1,4 +1,50 @@
 # 🚀 LeetCode Solutions - Maria Fernanda
 
-Repositório dedicado ao estudo de algoritmos e estruturas de dados, focado em 
-preparação para programação competitiva e maratonas (SBC/Maratona Mineira).
+<div align="center">
+  
+  ![C++](https://img.shields.io/badge/C++-Solutions-blue?logo=c%2B%2B&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-Solutions-yellow?logo=python&style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-Em%20Progresso-brightgreen?style=for-the-badge)
+
+  <p><i>Repositório dedicado ao estudo de algoritmos e estruturas de dados para Programação Competitiva.</i></p>
+</div>
+
+---
+
+## 📊 Minhas Estatísticas no LeetCode
+Este card atualiza automaticamente conforme eu resolvo novos desafios!
+
+<div align="center">
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=marelo_o&theme=dark" alt="LeetCode Stats Card" />
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** C++ (Performance/Maratonas) e Python (Agilidade/Data Science).
+* **Foco:** Programação Dinâmica, Strings, Grafos e Lógica de Competição.
+* **Automação:** [LeetHub v2](https://github.com/arshxyz/leetcode-hubv2) para sincronização em tempo real.
+
+---
+
+## 👩‍💻 Equipe Feminina CapCode
+Como **Gestora de Competições**, utilizo este espaço para:
+* Armazenar resoluções de problemas das Maratonas (SBC / Mineira).
+* Servir de base de estudos e consulta para as integrantes da equipe.
+* Praticar a lógica necessária para o treinamento de alto nível.
+
+---
+
+## 📂 Estrutura do Repositório
+A organização das pastas é feita automaticamente pela extensão LeetHub:
+* Cada pasta contém o nome do problema e seu ID.
+* Dentro de cada pasta, você encontrará o código da solução e um `README.md` com o enunciado original.
+
+---
+
+<div align="center">
+  <p>Engenharia Mecatrônica | UFSJ - CAP ⚙️</p>
+  <a href="https://www.linkedin.com/in/mar2006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
