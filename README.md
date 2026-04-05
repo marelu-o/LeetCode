@@ -15,7 +15,7 @@
 Este card atualiza automaticamente conforme eu resolvo novos desafios!
 
 <div align="center">
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=marelo_o&theme=dark" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/marelo_o?theme=dark&font=Libre%20Franklin&ext=activity" alt="LeetCode Stats Card" />
 </div>
 
 ---
@@ -23,7 +23,7 @@ Este card atualiza automaticamente conforme eu resolvo novos desafios!
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** C++ (Performance/Maratonas) e Python (Agilidade/Data Science).
 * **Foco:** Programação Dinâmica, Strings, Grafos e Lógica de Competição.
-* **Automação:** [LeetHub v2](https://github.com/arshxyz/leetcode-hubv2) para sincronização em tempo real.
+* **Automação:** [LeetHub v2]([https://github.com/arshxyz/leetcode-hubv2]([https://chromewebstore.google.com/detail/mhanfgfagplhgemhjfeolkkdidbakocm?utm_source=item-share-cb](https://github.com/arunbhardwaj/LeetHub-2.0) para sincronização em tempo real.
 
 ---
 
