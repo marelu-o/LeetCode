@@ -59,4 +59,5 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/marelu-o/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
