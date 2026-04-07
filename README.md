@@ -48,3 +48,15 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
+<!---LeetCode Topics End-->
