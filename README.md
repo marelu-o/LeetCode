@@ -55,6 +55,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
+| [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/marelu-o/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/marelu-o/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
