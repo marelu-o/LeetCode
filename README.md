@@ -54,6 +54,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -84,4 +85,8 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0509-fibonacci-number](https://github.com/marelu-o/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/marelu-o/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
