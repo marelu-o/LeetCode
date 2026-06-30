@@ -56,6 +56,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
@@ -73,6 +74,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/marelu-o/LeetCode/tree/master/0509-fibonacci-number) |
@@ -92,4 +94,8 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
