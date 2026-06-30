@@ -8,6 +8,9 @@ class Solution:
             nums[i] = max (nums[i] + nums[i - 2], nums[i - 1 ])
         return nums[len(nums) - 1]  
 
+
+
+
 # Didática do código:
         #  nums = [ 2, 7, 9, 3, 1 ]
         #  índices=[0, 1, 2, 3, 4 ]
