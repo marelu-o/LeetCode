@@ -60,6 +60,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
