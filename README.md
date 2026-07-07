@@ -55,6 +55,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
@@ -97,5 +99,6 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
