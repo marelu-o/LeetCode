@@ -85,6 +85,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/marelu-o/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
+| [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +125,16 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
