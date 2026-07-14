@@ -2,7 +2,10 @@ class Solution(object):
     def canReach(self, s, minJump, maxJump):
         q = deque([0])
         mais_longe = 0
-
+        if s[-1]=='1':
+            return False
+        if maxJump == len(s) - 1:
+            return True
         while q:
             i = q.popleft()
             comeco = max(i + minJump, mais_longe + 1)
