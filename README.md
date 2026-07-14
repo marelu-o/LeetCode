@@ -61,6 +61,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
+| [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0509-fibonacci-number](https://github.com/marelu-o/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/marelu-o/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
 ## Recursion
 |  |
 | ------- |
@@ -110,4 +112,16 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
