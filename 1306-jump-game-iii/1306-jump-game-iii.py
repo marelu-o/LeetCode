@@ -1,28 +1,30 @@
 class Solution(object):
-    def canReach(self, arr, start):
-        return self.buscaProf(arr, start, 0)
-    
-
-    # Solução recursiva
-    def buscaProf(self, arr, start, contador):
-        # Caso start menor que 0 ou satart maior que o tamanho do array
-        # Retorna False
-        if start < 0 or start >= len(arr):
+    def solve(self, arr, start, dp, n):
+        # Verifica se o índice está fora dos limites
+        if start >= n or start < 0:
             return False
         
-        # Caso o contador (inicialmente == 0) maior ou igual ao tamanho do array
-        # Retorna False
-        if contador >= len(arr):
+        # Verifica se a posição já foi visitada
+        if dp[start]:
             return False
-    
-        # Caso o arr[start] == 0
-        # Retorna True
+        
+        # Condição de vitória: encontrou o zero
         if arr[start] == 0:
             return True
+            
+        # Marca a posição atual como visitada
+        dp[start] = True
+        
+        # Chamadas recursivas para a direita e para a esquerda
+        return self.solve(arr, start + arr[start], dp, n) or \
+               self.solve(arr, start - arr[start], dp, n)
 
-        # Retorna buscando pela direita ou pela esquerda caso nenhum dos casos acima seja verdadeiro
-        return self.buscaProf(arr, start + arr[start], contador + 1) or \
-               self.buscaProf(arr, start - arr[start], contador + 1)
-    
+    def canReach(self, arr, start):
+        n = len(arr)
+        # Cria uma lista de booleanos (Falso) com o tamanho do array
+        dp = [False] * n 
+        
+        # Inicia a recursão
+        return self.solve(arr, start, dp, n)
     
     
