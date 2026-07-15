@@ -11,6 +11,7 @@ class Solution:
         for i in range(n-2, -1, -1): 
             # Se o pulo for maior que o limite(k) tira o indice de 'q'
             if q[0] - i > k: 
+                # retira o primeiro elemento da fila
                 q.popleft() 
             
             # dp[i] recebe o somatório do maior valor da fila com o valor atual de nums[i]            
@@ -18,7 +19,7 @@ class Solution:
             
             # Enquanto a fila não estiver vazia e o menor valor analisado for menor que o valor atual somado
             while q and dp[q[-1]] < dp[i]: 
-                # retira o primeiro elemento da fila
+                # retira o último elemento da fila
                 q.pop() 
 
             # adiciona à fila o índice atual    
