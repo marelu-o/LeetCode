@@ -4,7 +4,7 @@ public:
         vector<int> resultado;
         //Versão NÃO Otimizada
         // Para cada elemento no vetor original...
-        for (int i = 0; i < nums.size(); i++) {
+       /* for (int i = 0; i < nums.size(); i++) {
             int soma_atual = 0;
             
             // ...fazemos um NOVO laço voltando do início (0) até a posição atual (i)
@@ -13,14 +13,14 @@ public:
             }
             
             resultado.push_back(soma_atual);
-        }
+        } */
 
         // Versão Otimizada
-       /* int soma = 0;
+        int soma = 0;
         for (int i = 0; i < nums.size(); i++){
             soma += nums[i];
             resultado.push_back(soma);
-        }*/
+        }
 
         return resultado;
 
