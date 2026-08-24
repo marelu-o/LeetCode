@@ -61,6 +61,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/marelu-o/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
@@ -154,4 +155,9 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
