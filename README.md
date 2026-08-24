@@ -59,6 +59,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/marelu-o/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/marelu-o/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/marelu-o/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/marelu-o/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -101,6 +103,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -139,4 +142,16 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/marelu-o/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
