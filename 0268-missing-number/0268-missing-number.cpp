@@ -25,7 +25,7 @@ public:
         }
        return nums.size();*/
 
-       // Versão Otimizada (O(1))
+       // Versão Otimizada (O(n))
        // Fórmula de Gauss:
 
        int soma_esperada = (nums.size() * (nums.size() + 1)) / 2;
