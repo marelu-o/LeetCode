@@ -19,7 +19,7 @@ class Solution:
 
         # Versão NÃO Otimizada 2 (Usando Ordenação / Sort)
         # Complexidade de Tempo: O(n log n)
-        '''
+
         nums.sort()
 
         for j in range(len(nums)):
@@ -27,13 +27,14 @@ class Solution:
                 return j
                 
         return len(nums) # Retorna o tamanho caso o faltante seja o último
-        '''
+
 
         # Versão Otimizada (Fórmula de Gauss + Sum)
         # Complexidade de Tempo: O(n)
+        '''
         n = len(nums)
         soma_esperada = (n * (n + 1)) // 2 
         soma_real = sum(nums) 
         
         return soma_esperada - soma_real
-        
+        '''
