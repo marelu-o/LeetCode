@@ -2,7 +2,7 @@ class Solution:
     def sortedSquares(self, nums: list[int]) -> list[int]:
         
         # Versão UM pouco mais Otimizada O(n \log n)
-
+        '''
         for i in range(len(nums)):
             nums[i] = nums[i] * nums[i]
         nums.sort()
@@ -30,5 +30,5 @@ class Solution:
                 direita -= 1
 
         return resultado
-        '''
+        
         
