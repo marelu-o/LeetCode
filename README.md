@@ -135,6 +135,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/marelu-o/LeetCode/tree/master/0020-valid-parentheses) |
 | [1871-jump-game-vii](https://github.com/marelu-o/LeetCode/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -165,4 +166,12 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/marelu-o/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/marelu-o/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
