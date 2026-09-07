@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        // Chave: o número | Valor: o índice 'i' onde ele foi visto
         unordered_map<int, int> caderninho;
 
         // Verifica se o parceiro já está no mapa
