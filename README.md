@@ -59,6 +59,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -105,6 +106,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
@@ -158,6 +160,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
