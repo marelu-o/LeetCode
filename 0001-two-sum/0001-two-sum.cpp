@@ -1,6 +1,12 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+
+        // LINHAS DE OTIMIZAÇÃO DE I/O
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
+
+        
         // Chave: o número | Valor: o índice 'i' onde ele foi visto
         unordered_map<int, int> caderninho;
 
