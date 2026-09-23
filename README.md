@@ -63,6 +63,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/marelu-o/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/marelu-o/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
+| [0860-lemonade-change](https://github.com/marelu-o/LeetCode/tree/master/0860-lemonade-change) |
 ## Depth-First Search
 |  |
 | ------- |
