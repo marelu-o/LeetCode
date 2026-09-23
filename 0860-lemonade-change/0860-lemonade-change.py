@@ -48,9 +48,9 @@ class Solution:
             elif nota == 10:
                 if cinco > 0:
                     cinco -= 1
-                    dez += 1
                 else:
                     return False
+                dez += 1
 
             # Caso nota == 20, acrescentamos mais uma nota ao nosso caixa e retiramos um nota de 10 e outra de 5 OU retiramos três notas de 5
             elif nota == 20:
