@@ -62,6 +62,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/marelu-o/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/marelu-o/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/marelu-o/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
