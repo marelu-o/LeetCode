@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int a = 0;
+        int b = nums.size() - 1;
+
+        while (a <= b) {
+            // Previne overflow de memória em inteiros muito grandes
+            int k = a + (b - a) / 2;
+
+            if (nums[k] == target) {
+                return k;
+            }
+            if (nums[k] > target) {
+                b = k - 1;
+            } else {
+                a = k + 1;
+            }
+        }
+
+        return -1;
+    
+    }
+};
