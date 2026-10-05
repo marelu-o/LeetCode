@@ -5,7 +5,6 @@ public:
         int b = nums.size() - 1;
 
         while (a <= b) {
-            // Previne overflow de memória em inteiros muito grandes
             int k = a + (b - a) / 2;
 
             if (nums[k] == target) {
