@@ -155,6 +155,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/marelu-o/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/marelu-o/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -181,4 +182,8 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/marelu-o/LeetCode/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/marelu-o/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
