@@ -4,11 +4,11 @@
 class Solution {
 public:
     int firstBadVersion(int n) {
-        int a = 0;         
-        int b = n - 1;         
+        int a = 1;         
+        int b = n;         
         int resposta = n;          
         while (a <= b) {             
-            int k = a+(b - a) / 2;              
+            int k = a + (b - a) / 2;              
             if (isBadVersion(k)) {                 
                 resposta = k;                 
                 b = k - 1;             
