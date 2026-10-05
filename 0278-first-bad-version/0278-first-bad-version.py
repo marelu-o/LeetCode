@@ -10,7 +10,7 @@ class Solution:
             k = (a+b)//2              
             if isBadVersion(k):                 
                 r = k                 
-                b = k-1             
+                b = k - 1             
             else:                 
-                a = k+1         
+                a = k + 1         
         return r 
