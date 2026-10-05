@@ -55,6 +55,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marelu-o/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/marelu-o/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/marelu-o/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
@@ -154,6 +155,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/marelu-o/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/marelu-o/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
