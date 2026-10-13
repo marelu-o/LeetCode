@@ -188,4 +188,8 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/marelu-o/LeetCode/tree/master/0278-first-bad-version) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/marelu-o/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
