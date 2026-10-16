@@ -67,6 +67,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0746-min-cost-climbing-stairs](https://github.com/marelu-o/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/marelu-o/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/marelu-o/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/marelu-o/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/marelu-o/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1696-jump-game-vi](https://github.com/marelu-o/LeetCode/tree/master/1696-jump-game-vi) |
@@ -112,6 +113,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0997-find-the-town-judge](https://github.com/marelu-o/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
@@ -191,5 +193,6 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/marelu-o/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/marelu-o/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
