@@ -60,6 +60,7 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | [0046-permutations](https://github.com/marelu-o/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/marelu-o/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/marelu-o/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/marelu-o/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marelu-o/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marelu-o/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -123,10 +124,12 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 ## Queue
 |  |
@@ -195,4 +198,12 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 | ------- |
 | [0997-find-the-town-judge](https://github.com/marelu-o/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/marelu-o/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
