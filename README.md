@@ -125,12 +125,14 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/marelu-o/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/marelu-o/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/marelu-o/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/marelu-o/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/marelu-o/LeetCode/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/marelu-o/LeetCode/tree/master/1306-jump-game-iii) |
 ## Queue
@@ -212,8 +214,10 @@ A organização das pastas é feita automaticamente pela extensão LeetHub:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/marelu-o/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/marelu-o/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/marelu-o/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/marelu-o/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
